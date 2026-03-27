@@ -26,14 +26,15 @@ Currently focused on building digital transformations and developing high-perfor
 ### 💻 Technical Ecosystem
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,react,nextjs,reactnative,flutter,tailwind,redux,mongodb,mysql,postgres,aws,docker,git,figma,vscode" />
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,koa,react,nextjs,reactnative,flutter,tailwind,redux,mongodb,mysql,mssql,aws,git,figma,vscode,py" />
 </div>
 
-| **Category** | **Expertise** |
+| **Category** | **Expertise (Source: Portfolio 2026)** |
 | :--- | :--- |
-| **Languages** | `Typescript / Javascript (Expert)` `C# / .NET Core` `Go (Mastering)` |
-| **Architectures**| `Microservices` `Event-Driven` `Cloud-Native` `System Design` |
-| **Infrastructure**| `AWS` `Vercel` `Firebase` `CI/CD Pipelines` `Docker` |
+| **Languages** | `Javascript / Typescript (Expert)` `C# / .NET Core` `Go (Learning)` `Python` |
+| **Development** | `React / Next.js` `React Native / Flutter` `Node.js / Koa / Express` |
+| **Architecture** | `System Architecture` `AWS / Cloud Infrastructure` `Redux / State Management` |
+| **Data & DevOps**| `MongoDB / MySQL / MSSQL` `CI/CD / Vercel / Firebase` `Tailwind / Design Systems` |
 
 ---
 
@@ -50,12 +51,13 @@ Currently focused on building digital transformations and developing high-perfor
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h4>💼 Global Experience</h4>
+      <h4>💼 Professional Journey</h4>
       <ul>
-        <li><b>Outsourcing Focused</b>: Fintech & Global Solutions.</li>
-        <li><b>AYA Innovation Lab</b>: Digital Banking Systems.</li>
-        <li><b>Innovix Digital</b>: Enterprise Transformation.</li>
-        <li><b>MandalarMall</b>: E-commerce Ecosystems.</li>
+        <li><b>Outsourcing Focused</b>: Global Backend Solutions.</li>
+        <li><b>AYA Innovation Lab</b>: Fintech & Digital Banking.</li>
+        <li><b>Innovix Digital</b>: Mobile & Web Transformation.</li>
+        <li><b>Ninety Five Group</b>: Premium Brand Solutions.</li>
+        <li><b>IrraHub</b>: Foundation Software Engineering.</li>
       </ul>
     </td>
   </tr>
