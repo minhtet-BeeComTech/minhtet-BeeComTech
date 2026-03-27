@@ -1,7 +1,8 @@
 <div align="center">
 
 # 👋 Hi, I'm Min Htet Kyaw
-### Senior Software Engineer • Full-Stack Developer • Digital Ecosystem Builder
+
+### Software Engineer • Full-Stack Developer • Digital Ecosystem Builder
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7AF79A&center=true&vCenter=true&width=435&lines=Building+Scalable+Ecosystems;Developing+Premium+Digital+Experiences;Focusing+on+Clean+Code;Advanced+Tech+Solutions)](https://git.io/typing-svg)
 
@@ -29,12 +30,12 @@ Currently focused on building digital transformations and developing high-perfor
   <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,koa,react,nextjs,reactnative,flutter,tailwind,redux,mongodb,mysql,mssql,aws,git,figma,vscode,py" />
 </div>
 
-| **Category** | **Expertise (Source: Portfolio 2026)** |
-| :--- | :--- |
-| **Languages** | `Javascript / Typescript (Expert)` `C# / .NET Core` `Go (Learning)` `Python` |
-| **Development** | `React / Next.js` `React Native / Flutter` `Node.js / Koa / Express` |
-| **Architecture** | `System Architecture` `AWS / Cloud Infrastructure` `Redux / State Management` |
-| **Data & DevOps**| `MongoDB / MySQL / MSSQL` `CI/CD / Vercel / Firebase` `Tailwind / Design Systems` |
+| **Category**      | **Expertise (Source: Portfolio 2026)**                                            |
+| :---------------- | :-------------------------------------------------------------------------------- |
+| **Languages**     | `Javascript / Typescript (Expert)` `C# / .NET Core` `Go (Learning)` `Python`      |
+| **Development**   | `React / Next.js` `React Native / Flutter` `Node.js / Koa / Express`              |
+| **Architecture**  | `System Architecture` `AWS / Cloud Infrastructure` `Redux / State Management`     |
+| **Data & DevOps** | `MongoDB / MySQL / MSSQL` `CI/CD / Vercel / Firebase` `Tailwind / Design Systems` |
 
 ---
 
@@ -75,7 +76,7 @@ Currently focused on building digital transformations and developing high-perfor
 
 <br/>
 
-*"The best way to predict the future is to build it."*
+_"The best way to predict the future is to build it."_
 
 </div>
 
