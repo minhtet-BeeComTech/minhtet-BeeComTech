@@ -1,33 +1,82 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hello+there+!+I'm+Min+Htet.+👋;I'm+a+Javascript+Developer.+👨‍💻;I+love+coding+and+design+💕;Fullstack+Dev+is+mydream+✨)](https://git.io/typing-svg)
+<div align="center">
 
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=minhtet-BeeComTech.minhtet-BeeComTech)
-[![Github](https://img.shields.io/github/followers/minhtet-BeeComTech?label=Follow&style=social)](https://github.com/minhtet-BeeComTech)
+# 👋 Hi, I'm Min Htet Kyaw
+### Senior Software Engineer • Full-Stack Developer • Digital Ecosystem Builder
 
-- 👋 Hi, My name is Min Htet Kyaw. I'm a full-stack developer.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7AF79A&center=true&vCenter=true&width=435&lines=Building+Scalable+Ecosystems;Developing+Premium+Digital+Experiences;Focusing+on+Clean+Code;Advanced+Tech+Solutions)](https://git.io/typing-svg)
 
+<p align="center">
+  <img src="https://img.shields.io/badge/8%2B%20Years%20Experience-2E3440?style=for-the-badge&logo=expedia&logoColor=88C0D0" />
+  <img src="https://img.shields.io/badge/30%2B%20Projects%20Delivered-2E3440?style=for-the-badge&logo=checkmarx&logoColor=A3BE8C" />
+  <img src="https://img.shields.io/badge/Full--Stack%20Expert-2E3440?style=for-the-badge&logo=codeforces&logoColor=EBCB8B" />
+</p>
 
-<h3> 🌐 &nbsp; Technologies and Tools</h3>
+</div>
 
-  ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-  ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-  ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-  ![React Native](https://img.shields.io/badge/-React%20Native-05122A?style=flat&logo=react)&nbsp;
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
-  ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=Node.js)&nbsp;
-  ![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=Go)&nbsp;
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB)&nbsp;
-  ![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)&nbsp;
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap)&nbsp;
-  ![Tailwind](https://img.shields.io/badge/-Tailwind-05122A?style=flat&logo=Tailwindcss)&nbsp;
-  ![jQuery](https://img.shields.io/badge/-jQuery-05122A?style=flat&logo=jquery)&nbsp;
-  ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-  ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)&nbsp;
-  ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)&nbsp;
-  ![VS Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
+---
+
+### 🚀 About My Journey
+
+I am a **Senior-focused Software Engineer** with over **8 years** of technical excellence. I specialize in bridging the gap between complex backend systems and seamless user experiences. My philosophy is simple: **Reliability by Design, Excellence by Execution.**
+
+Currently focused on building digital transformations and developing high-performance ecosystems for global clients.
+
+---
+
+### 💻 Technical Ecosystem
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,react,nextjs,reactnative,flutter,tailwind,redux,mongodb,mysql,postgres,aws,docker,git,figma,vscode" />
+</div>
+
+| **Category** | **Expertise** |
+| :--- | :--- |
+| **Languages** | `Typescript / Javascript (Expert)` `C# / .NET Core` `Go (Mastering)` |
+| **Architectures**| `Microservices` `Event-Driven` `Cloud-Native` `System Design` |
+| **Infrastructure**| `AWS` `Vercel` `Firebase` `CI/CD Pipelines` `Docker` |
+
+---
+
+### 🌟 Featured Highlights
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>📦 Open Source & Tools</h4>
+      <ul>
+        <li><b>mhk-snippet</b>: Precision React snippets for VS Code.</li>
+        <li><b>Native-Solid</b>: Reusable UI & Utilities for React Native.</li>
+        <li><b>mhk-plop</b>: Standardized React CLI generator.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>💼 Global Experience</h4>
+      <ul>
+        <li><b>Outsourcing Focused</b>: Fintech & Global Solutions.</li>
+        <li><b>AYA Innovation Lab</b>: Digital Banking Systems.</li>
+        <li><b>Innovix Digital</b>: Enterprise Transformation.</li>
+        <li><b>MandalarMall</b>: E-commerce Ecosystems.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📫 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/min-htet-kyaw-135487189/)
+[![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/~minhtetkyaw)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:minhtetkyaw.developer@gmail.com)
+
 <br/>
 
-<!---
-minhtet-BeeComTech/minhtet-BeeComTech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+*"The best way to predict the future is to build it."*
+
+</div>
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=minhtet-BeeComTech.minhtet-BeeComTech&left_color=2E3440&right_color=88C0D0&left_text=Visitors" />
+</p>
